@@ -1,0 +1,9 @@
+Reverse Geocoder
+================
+
+29-Nov-2011
+Hector Veiga (kecok0@hotmail.com)
+
+This application is a small example of how to get coordinates of a given address. 
+The method '(CLLocationCoordinate2D) addressLocation:(NSString *)input' has been extracted from 
+http://iphonesdksnippets.com/post/2010/02/15/Get-Coordinates-from-Address.aspx and belongs to its author.

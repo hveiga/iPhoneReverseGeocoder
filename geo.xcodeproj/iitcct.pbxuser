@@ -1,0 +1,214 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* geoAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 356}}";
+			sepNavSelRange = "{52, 0}";
+			sepNavVisRange = "{0, 428}";
+		};
+	};
+	1D3623250D0F684500981E51 /* geoAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1183}}";
+			sepNavSelRange = "{31, 0}";
+			sepNavVisRange = "{0, 662}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* geo */ = {
+		activeExec = 0;
+		executables = (
+			42EE382A1485A2E700D15105 /* geo */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* geoViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 416}}";
+			sepNavSelRange = "{108, 0}";
+			sepNavVisRange = "{0, 626}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* geoViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 858}}";
+			sepNavSelRange = "{219, 58}";
+			sepNavVisRange = "{143, 980}";
+			sepNavWindowFrame = "{{15, 75}, {750, 701}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 42EE382A1485A2E700D15105 /* geo */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* geo */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* geo */,
+		);
+		codeSenseManager = 42EE383A1485A2ED00D15105 /* Code sense */;
+		executables = (
+			42EE382A1485A2E700D15105 /* geo */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					833,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 344566186;
+			PBXWorkspaceStateSaveDate = 344566186;
+		};
+		perUserProjectItems = {
+			425260E01489A9C200D7E046 /* PBXTextBookmark */ = 425260E01489A9C200D7E046 /* PBXTextBookmark */;
+			42EE39011485ABC600D15105 /* PBXTextBookmark */ = 42EE39011485ABC600D15105 /* PBXTextBookmark */;
+			42FC71891489A99900F13718 /* PBXTextBookmark */ = 42FC71891489A99900F13718 /* PBXTextBookmark */;
+			42FC718A1489A99900F13718 /* PBXTextBookmark */ = 42FC718A1489A99900F13718 /* PBXTextBookmark */;
+			42FC718B1489A99900F13718 /* PBXTextBookmark */ = 42FC718B1489A99900F13718 /* PBXTextBookmark */;
+			42FC718C1489A99900F13718 /* PBXTextBookmark */ = 42FC718C1489A99900F13718 /* PBXTextBookmark */;
+			42FC718E1489A99900F13718 /* PBXTextBookmark */ = 42FC718E1489A99900F13718 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 42EE38391485A2ED00D15105 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	425260E01489A9C200D7E046 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 42FC71871489A79900F13718 /* README */;
+		name = "README: 9";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+	42EE382A1485A2E700D15105 /* geo */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = geo;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	42EE38391485A2ED00D15105 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	42EE383A1485A2ED00D15105 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	42EE39011485ABC600D15105 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 42EE39021485ABC600D15105 /* CLLocationManagerDelegate.h */;
+		name = "CLLocationManagerDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 498;
+		vrLoc = 0;
+	};
+	42EE39021485ABC600D15105 /* CLLocationManagerDelegate.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CLLocationManagerDelegate.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS4.3.sdk/System/Library/Frameworks/CoreLocation.framework/Headers/CLLocationManagerDelegate.h;
+		sourceTree = "<absolute>";
+	};
+	42FC71871489A79900F13718 /* README */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1011, 372}}";
+			sepNavSelRange = "{367, 0}";
+			sepNavVisRange = "{0, 367}";
+		};
+	};
+	42FC71891489A99900F13718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* geoAppDelegate.m */;
+		name = "geoAppDelegate.m: 3";
+		rLen = 0;
+		rLoc = 31;
+		rType = 0;
+		vrLen = 662;
+		vrLoc = 0;
+	};
+	42FC718A1489A99900F13718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* geoAppDelegate.h */;
+		name = "geoAppDelegate.h: 5";
+		rLen = 0;
+		rLoc = 52;
+		rType = 0;
+		vrLen = 428;
+		vrLoc = 0;
+	};
+	42FC718B1489A99900F13718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* geoViewController.h */;
+		name = "geoViewController.h: 6";
+		rLen = 0;
+		rLoc = 108;
+		rType = 0;
+		vrLen = 626;
+		vrLoc = 0;
+	};
+	42FC718C1489A99900F13718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* geoViewController.m */;
+		name = "geoViewController.m: 16";
+		rLen = 58;
+		rLoc = 219;
+		rType = 0;
+		vrLen = 980;
+		vrLoc = 143;
+	};
+	42FC718E1489A99900F13718 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 42FC71871489A79900F13718 /* README */;
+		name = "README: 9";
+		rLen = 0;
+		rLoc = 367;
+		rType = 0;
+		vrLen = 367;
+		vrLoc = 0;
+	};
+}
